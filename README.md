@@ -22,7 +22,7 @@ within the limited time although being too busy for the Robocon 2018 project.
   * 8 Servo-motors
   * Jumper wires
   * Voltage Regulators
-  * Potentiometer
+  * 
   * 12V battery
   
 # Usage:

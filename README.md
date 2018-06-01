@@ -9,7 +9,7 @@ wheeled bots may get some difficulties due to roughed surface.
 
 # Acknowledgement:
 
-We would like to express our special thanks of gratitude to our mentors Aman Singh Sir(ME 3rd year),      (ECE 3rd year)
+We would like to express our special thanks of gratitude to our mentors Aman Singh Sir(ME 3rd year), Pankaj Singh (ECE 3rd year)
 and Jashan Sir(BT 4th year) as well as our guide and senior mentor Shivam Shrivastava Sir(EE 4th year & secretary, Models and 
 Robotics Section) who gave us the golden opportunity to do this wonderful project on the topic “Kitty Bot” which helped us in 
 doing a lot of research and we came to know about so many new things. Special Thanks to him for his exemplary guidance, monitoring and 
@@ -19,23 +19,34 @@ within the limited time although being too busy for the Robocon 2018 project.
 
 # Pre-Requisites:
   * Arduino Nano
-  * 8 Servo-motors
+  * 8 x Servo-motors
   * Jumper wires
   * Voltage Regulators
-  * 
-  * 12V battery
+  * 4 x 5 Volt Regulator
+  * Breadboard
+  * 1 x 7.4 1200 mah LiPo Battery
+  * 3D printed parts (optional)
   
-# Usage:
+
 
 # Future improvements:
+  * Add sensors for feedback.
   * The bot will be made more compact and lighter.
   * Use Deep learning to improve mutual movement of legs.
   * Use Pneumatic in knee joints to carry more load.
 
 
-# Video:
 
 # Team Member:
   * Pranjal Mishra
   * Yawan Gupta
   * Avdesh Ranwa
+
+# Mentors:
+
+<ul>
+<li><a Aman Singh</a></li>
+<li><a Pankaj Singh</a></li>
+<li><a Aman Verma</a></li>
+
+</ul>

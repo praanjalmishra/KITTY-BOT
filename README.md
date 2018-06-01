@@ -1,4 +1,4 @@
-# KITTY-BOT
+﻿# KITTY-BOT
 
 Four leged animal robot.
 
@@ -27,6 +27,8 @@ within the limited time although being too busy for the Robocon 2018 project.
   * 1 x 7.4 1200 mah LiPo Battery
   * 3D printed parts (optional)
   
+# Work
+
 
 
 # Future improvements:

@@ -44,9 +44,6 @@ within the limited time although being too busy for the Robocon 2018 project.
 
 # Mentors:
 
-<ul>
-<li><a Aman Singh</a></li>
-<li><a Pankaj Singh</a></li>
-<li><a Aman Verma</a></li>
-
-</ul>
+* Aman Singh
+* Pankaj Singh
+* Aman Verma

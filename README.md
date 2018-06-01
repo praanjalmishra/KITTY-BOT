@@ -27,8 +27,10 @@ within the limited time although being too busy for the Robocon 2018 project.
   * 1 x 7.4 1200 mah LiPo Battery
   * 3D printed parts (optional)
   
-# Work
+# Work:
 
+The bot consits of 4 servo motors mounted on 3D printed base as a leg joints. and 1 servo for for each leg.
+the movement of leg controlled by 2 sevos. and all servos are synced by using microcontroller Arduino nano.
 
 
 # Future improvements:

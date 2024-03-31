@@ -9,8 +9,8 @@ wheeled bots may get some difficulties due to roughed surface.
 
 # Acknowledgement:
 
-We would like to express our special thanks of gratitude to our mentors Aman Singh Sir(ME 3rd year), Pankaj Singh (ECE 3rd year)
-and Jashan Sir(BT 4th year) as well as our guide and senior mentor Shivam Shrivastava Sir(EE 4th year & secretary, Models and 
+We would like to express our special thanks of gratitude to our mentors Aman Singh (ME 3rd year), Pankaj Singh (ECE 3rd year)
+and Jashan (BT 4th year) as well as our guide and senior mentor Shivam Shrivastava (EE 4th year & secretary, Models and 
 Robotics Section) who gave us the golden opportunity to do this wonderful project on the topic “Kitty Bot” which helped us in 
 doing a lot of research and we came to know about so many new things. Special Thanks to him for his exemplary guidance, monitoring and 
 constant encouragement throughout the Project. I would also like to thank all mentors as they helped us a lot in finishing this project
